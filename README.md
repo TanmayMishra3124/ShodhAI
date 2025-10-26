@@ -139,7 +139,7 @@ Compares both models, analyzing cases where their policies disagree.
 ## 📄 Final Report
 
 The complete analysis and comparison are summarized in  
-[`Finalprojectreport.pdf`](./Finalprojectreport.pdf).
+[`Finalprojectreport.pdf`](./FinalProjectReport.pdf).
 
 ---
 
